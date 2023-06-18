@@ -1,5 +1,8 @@
 from datetime import datetime
 
+# Users
+users_file = 'default_users.csv'
+
 # Folder structure settings
 root_folder = ''  # Relative to this file
 data_folder = 'terep/adatok'  # Relative to root folder
